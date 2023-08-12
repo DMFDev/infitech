@@ -1,0 +1,142 @@
+/*
+Theme Name:  Twenty Twenty One Child
+Description: Tema Twenty Twenty One
+Author:      David Muñoz Fernandez
+Author URL:  https://infitech.com
+Template:    twentytwentyone
+Version:     1.0
+License:     GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentytwentyone-child
+*/
+
+/* Estilos generales */
+/* ----------------- */
+.body{
+    background-color: black;
+}
+/* ----------------- */
+
+
+/* Estilos movil */
+/* ------------- */
+
+/* Header */
+.header-content{
+
+}
+.header-content__logo div{
+    text-align: center;
+}
+.header-content__logo img{
+    width: 260px;
+}
+
+.header-content__menu--escritorio{
+    display: none;
+}
+
+.header-content__btn--menu{
+    position: absolute;
+    top: 100px;
+    right: 40px;
+}
+.header-content__modal--menu{
+    position: absolute;
+    right: 0;
+    padding: 20px 30px 20px 0px;
+    background-color: rgb(256, 17, 89);
+}
+
+.header-content__modal--menu ul{
+    list-style: none;
+}
+.header-content__modal--menu li a{
+    text-decoration: none;
+}
+/* ------------- */
+
+/* Prueba */
+.item{
+    background-color: rgb(256, 17, 89);
+    width: 180px;
+}
+.item a{
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.item-1{
+    /* width: fit-content; */
+    padding: 10px 20px 10px 10px;
+    border-radius: 0px 40px 40px 0px;
+    margin-bottom: 40px;
+    position: absolute;
+    top: 40%;
+}
+.item-2{
+    padding: 10px 10px 10px 20px;
+    border-radius: 40px 0px 0px 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    /* text-align: right; */
+}
+.item-3{
+    /* width: fit-content; */
+    padding: 10px 20px 10px 10px;
+    border-radius: 0px 40px 40px 0px;
+    margin-bottom: 40px;
+    position: absolute;
+    top: 60%;
+}
+.item-4{
+    padding: 10px 10px 10px 20px;
+    border-radius: 40px 0px 0px 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    top: 70%;
+    right: 0;
+    /* text-align: right; */
+}
+
+/* Prueba 2 */
+.content-item{
+
+}
+.items{
+    /* background-color: rgb(256, 17, 89); */
+    background-color: black;
+    width: 180px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 20px 0px;
+    margin-bottom: 20px !important;
+}
+.items a{
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.items-1{
+    margin: auto;
+}
+.items-2{
+    margin: auto;
+}
+.items-3{
+    margin: auto;
+}
+.items-4{
+    margin: auto;
+}
+
+.hidden{
+    display: none;
+}
+
+
+
+@media screen and (min-width: 991px){
+
+}
