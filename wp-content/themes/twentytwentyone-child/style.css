@@ -41,70 +41,13 @@ Text Domain: twentytwentyone-child
     top: 100px;
     right: 40px;
 }
-.header-content__modal--menu{
-    position: absolute;
-    right: 0;
-    padding: 20px 30px 20px 0px;
-    background-color: rgb(256, 17, 89);
-}
-
-.header-content__modal--menu ul{
-    list-style: none;
-}
-.header-content__modal--menu li a{
-    text-decoration: none;
-}
 /* ------------- */
 
 /* Prueba */
+.content-item-menu__movil{
+
+}
 .item{
-    background-color: rgb(256, 17, 89);
-    width: 180px;
-}
-.item a{
-    text-decoration: none;
-    font-size: 1.3rem;
-}
-.item-1{
-    /* width: fit-content; */
-    padding: 10px 20px 10px 10px;
-    border-radius: 0px 40px 40px 0px;
-    margin-bottom: 40px;
-    position: absolute;
-    top: 40%;
-}
-.item-2{
-    padding: 10px 10px 10px 20px;
-    border-radius: 40px 0px 0px 40px;
-    margin-bottom: 40px;
-    position: absolute;
-    top: 50%;
-    right: 0;
-    /* text-align: right; */
-}
-.item-3{
-    /* width: fit-content; */
-    padding: 10px 20px 10px 10px;
-    border-radius: 0px 40px 40px 0px;
-    margin-bottom: 40px;
-    position: absolute;
-    top: 60%;
-}
-.item-4{
-    padding: 10px 10px 10px 20px;
-    border-radius: 40px 0px 0px 40px;
-    margin-bottom: 40px;
-    position: absolute;
-    top: 70%;
-    right: 0;
-    /* text-align: right; */
-}
-
-/* Prueba 2 */
-.content-item{
-
-}
-.items{
     /* background-color: rgb(256, 17, 89); */
     background-color: black;
     width: 180px;
@@ -112,27 +55,32 @@ Text Domain: twentytwentyone-child
     border: 2px solid white;
     border-radius: 4px;
     padding: 20px 0px;
+    margin: auto;
     margin-bottom: 20px !important;
 }
-.items a{
+.item a{
     text-decoration: none;
     font-size: 1.3rem;
 }
-.items-1{
-    margin: auto;
+.item-1{
+
 }
-.items-2{
-    margin: auto;
+.item-2{
+
 }
-.items-3{
-    margin: auto;
+.item-3{
+
 }
-.items-4{
-    margin: auto;
+.item-4{
+
 }
 
 .hidden{
     display: none;
+}
+
+.show{
+
 }
 
 

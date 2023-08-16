@@ -46,32 +46,14 @@
                 </nav>
             </div>
             <!-- Menú movil -->
-            <!-- <div class="header-content__btn--menu">
-                <span id="btn_menu" class="fa fa-bars" aria-hidden="true"></span>
-            </div>
-            <div id="modal_menu" class="header-content__modal--menu">
-                <nav>
-                    <ul>
-                        <li><a href="#">Quienes somos</a></li>
-                        <li><a href="#">Donde estamos</a></li>
-                        <li><a href="#">Proyectos</a></li>
-                        <li><a href="#">Contacto</a></li>
-                    </ul>
-                </nav>
-            </div> --> 
-            <!-- <div class="item-1 item"><a href="#">Quienes somos</a></div>
-            <div class="item-2 item"><a href="#">Donde estamos</a></div>
-            <div class="item-3 item"><a href="#">Proyectos</a></div>
-            <div class="item-4 item"><a href="#">Contacto</a></div> -->
-
             <div class="header-content__btn--menu">
                 <span id="btn_menu" class="fa fa-bars" aria-hidden="true"></span>
             </div>
-            <div id="modal_menu" class="content-item hidden">
-                <div class="items-1 items"><a href="#">Quienes somos</a></div>
-                <div class="items-2 items"><a href="#">Donde estamos</a></div>
-                <div class="items-3 items"><a href="#">Proyectos</a></div>
-                <div class="items-4 items"><a href="#">Contacto</a></div>
+            <div id="modal_menu" class="content-item-menu__movil hidden">
+                <div class="item-1 item "><a href="#">Quienes somos</a></div>
+                <div class="item-2 item "><a href="#">Donde estamos</a></div>
+                <div class="item-3 item "><a href="#">Proyectos</a></div>
+                <div class="item-4 item "><a href="#">Contacto</a></div>
             </div>
         </div>
     </header>
